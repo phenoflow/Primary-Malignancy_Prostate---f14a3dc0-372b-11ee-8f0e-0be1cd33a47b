@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_prostate-cancer---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_prostate-grade---primary.py
+inputModule4:
+  class: File
+  path: python/radical-primary-malignancy_prostate---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_prostate-prostatectomy---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_prostate-excision---primary.py
+inputModule7:
+  class: File
+  path: python/pelvic-primary-malignancy_prostate---primary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_prostate-neoplasm---primary.py
+inputModule9:
+  class: File
+  path: python/prostate---primary.py
+inputModule10:
+  class: File
+  path: python/primary-malignancy_prostate-history---primary.py
+inputModule11:
+  class: File
+  path: python/primary-malignancy_prostate-procedure---primary.py
+inputModule12:
+  class: File
+  path: python/malignant-neoplasm-prostate-primary-malignancy_prostate---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
